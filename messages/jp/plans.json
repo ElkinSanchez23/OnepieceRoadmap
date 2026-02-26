@@ -1,0 +1,17 @@
+{
+    "choosePlan": "プランを選ぶ",
+    "basic": "ベーシック",
+    "standard": "スタンダード",
+    "premium": "プレミアム",
+    "month": "月",
+    "limitedAccess": "制限付きアクセス",
+    "ads": "広告あり",
+    "readOnly": "読み取り専用",
+    "fullAccess": "フルアクセス",
+    "noAds": "広告なし",
+    "favorites": "お気に入りと履歴",
+    "allIncluded": "すべて込み",
+    "prioritySupport": "優先サポート",
+    "earlyAccess": "新機能の早期アクセス",
+    "select": "プランを選択"
+  }

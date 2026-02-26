@@ -1,0 +1,47 @@
+{
+    "timelineTitle": "Saga Timeline",
+    "explore": "Explore",
+    "title": "Timeline of the One Piece sagas",
+    "sagas": {
+      "1": {
+        "title": "East Blue Saga",
+        "description": "The saga where it all begins — we meet Luffy and his dream of becoming Pirate King."
+      },
+      "2": {
+        "title": "Alabasta Saga",
+        "description": "The crew arrives at the Alabasta desert to fight Crocodile and save the kingdom."
+      },
+      "3": {
+        "title": "Sky Island Saga",
+        "description": "An adventure in the sky where pirates seek legendary treasures and face Enel."
+      },
+      "4": {
+        "title": "Water 7 Saga",
+        "description": "The crew arrives at Water Seven, where crucial events happen for their future."
+      },
+      "5": {
+        "title": "Thriller Bark Saga",
+        "description": "A mysterious island where the crew fights zombies and Gecko Moria."
+      },
+      "6": {
+        "title": "Marineford War Saga",
+        "description": "The greatest war in the world of One Piece, deciding Ace and Luffy's fate."
+      },
+      "7": {
+        "title": "Fishman Island Saga",
+        "description": "After two years, the crew returns to continue their journey in the New World."
+      },
+      "8": {
+        "title": "Dressrosa Saga",
+        "description": "A long and dangerous saga where the crew faces Doflamingo."
+      },
+      "9": {
+        "title": "Whole Cake Island Saga",
+        "description": "The crew tries to save Sanji from Big Mom’s family — one of the Four Emperors."
+      },
+      "10": {
+        "title": "Wano Kuni Saga",
+        "description": "The samurai saga and alliance against Kaido — the world's balance is at stake."
+      }
+    }
+  }

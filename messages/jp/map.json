@@ -1,0 +1,13 @@
+{
+    "interactive": "インタラクティブマップ",
+    "legendTitle": "地図の凡例",
+    "sagas": "サーガ",
+    "importantIslands": "重要な島々",
+    "sagaAlt": "サーガのアイコン",
+    "islandAlt": "島のアイコン",
+    "showAll": "すべて表示",
+    "ariaLabel": "ワンピースの世界のインタラクティブマップ",
+    "altText": "ワンピースの世界のすべての島とサーガを示すイラスト地図",
+    "goToSaga": "サーガ「{name}」へ行く",
+    "openIsland": "島「{name}」を開く"
+  }

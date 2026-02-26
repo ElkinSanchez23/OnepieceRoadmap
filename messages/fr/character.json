@@ -1,0 +1,24 @@
+{
+    "crew": "Équipage",
+    "bounty": "Prime",
+    "devilFruit": "Fruit du démon",
+    "occupation": "Profession",
+    "haki": "Haki",
+    "job": "Métier",
+    "size": "Taille",
+    "age": "Âge",
+    "status": "Statut",
+    "crewDetails": "Détails de l'équipage",
+    "crewName": "Nom de l'équipage",
+    "crewRomanName": "Nom romain",
+    "crewTotalBounty": "Prime Totale de l'équipage",
+    "loading": "Chargement...",
+    "characterImageLabel": "Image de {name}",
+    "characterImageAlt": "Portrait de {name}",
+    "mainContentLabel": "Contenu principal de la page",
+    "aria": {
+      "viewDetails": "Voir les détails de {name}",
+      "goBack": "Retour",
+      "imageOf": "Image de {name}"
+    }
+  }

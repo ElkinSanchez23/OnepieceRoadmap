@@ -1,0 +1,10 @@
+{
+    "title": "Login",
+    "username": "Username",
+    "password": "Password",
+    "loading": "Loading...",
+    "button": "Login",
+    "invalidCredentials": "Incorrect username or password",
+    "passwordMismatch": "Passwords do not match",
+    "logout": "log out"
+  }

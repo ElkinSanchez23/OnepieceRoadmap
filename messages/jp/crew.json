@@ -1,0 +1,17 @@
+{
+    "title": "自分のクルーを作ろう",
+    "availableCharacters": "利用可能なキャラクター",
+    "yourCrew": "あなたのクルー",
+    "add": "追加",
+    "remove": "削除",
+    "openPack": "パックを開く ",
+    "noPackOpened": "まだパックは開封されていません",
+    "noMorePacks": "パックはもうありません",
+    "limitReached": "クルーには最大10人までしか追加できません",
+    "rarities": {
+      "common": "ノーマル",
+      "rare": "レア",
+      "epic": "エピック",
+      "legendary": "レジェンダリー"
+    }
+  }

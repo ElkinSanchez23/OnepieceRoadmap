@@ -1,0 +1,10 @@
+{
+    "title": "Connexion",
+    "username": "Nom d'utilisateur",
+    "password": "Mot de passe",
+    "loading": "Chargement...",
+    "button": "Se connecter",
+    "invalidCredentials": "Nom d'utilisateur ou mot de passe incorrect",
+    "passwordMismatch": "Les mots de passe ne correspondent pas",
+    "logout": "se déconnecter"
+  }

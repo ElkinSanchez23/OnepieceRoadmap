@@ -1,0 +1,13 @@
+{
+    "interactive": "Interactive Map",
+    "legendTitle": "Map Legend",
+    "sagas": "Sagas",
+    "importantIslands": "Important Islands",
+    "sagaAlt": "Saga icon",
+    "islandAlt": "Island icon",
+    "showAll": "Show all",
+    "ariaLabel": "Interactive map of the One Piece world",
+    "altText": "Illustrated map showing all islands and sagas from the One Piece world",
+    "goToSaga": "Go to saga {name}",
+    "openIsland": "Open island {name}"
+  }

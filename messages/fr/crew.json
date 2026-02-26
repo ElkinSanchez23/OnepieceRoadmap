@@ -1,0 +1,17 @@
+{
+    "title": "Construis ton Équipage",
+    "availableCharacters": "Personnages Disponibles",
+    "yourCrew": "Ton Équipage",
+    "add": "Ajouter",
+    "remove": "Retirer",
+    "limitReached": "Tu ne peux avoir que 10 membres dans ton équipage",
+    "openPack": "Ouvrir un paquet ",
+    "noMorePacks": "Plus de paquets",
+    "noPackOpened": "Aucun paquet ouvert pour l’instant",
+    "rarities": {
+      "common": "Commun",
+      "rare": "Rare",
+      "epic": "Épique",
+      "legendary": "Légendaire"
+    }
+  }

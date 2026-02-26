@@ -1,0 +1,13 @@
+{
+    "interactive": "Mapa Interactivo",
+    "legendTitle": "Leyenda del mapa",
+    "sagas": "Sagas",
+    "importantIslands": "Islas importantes",
+    "sagaAlt": "Ícono de saga",
+    "islandAlt": "Ícono de isla",
+    "showAll": "Mostrar Todo",
+    "ariaLabel": "Mapa interactivo del mundo de One Piece",
+    "altText": "Mapa ilustrado con todas las islas y sagas del mundo de One Piece",
+    "goToSaga": "Ir a la saga {name}",
+    "openIsland": "Abrir isla {name}"
+  }

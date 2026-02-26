@@ -1,0 +1,47 @@
+{
+    "timelineTitle": "Saga-Zeitstrahl",
+    "explore": "Erkunden",
+    "title": "Zeitstrahl der One Piece-Sagas",
+    "sagas": {
+      "1": {
+        "title": "East Blue Saga",
+        "description": "Die Saga, in der alles beginnt – wir treffen Luffy und seinen Traum, Piratenkönig zu werden."
+      },
+      "2": {
+        "title": "Alabasta-Saga",
+        "description": "Die Crew kommt in der Wüste von Alabasta an, um gegen Crocodile zu kämpfen und das Königreich zu retten."
+      },
+      "3": {
+        "title": "Himmelsinsel-Saga",
+        "description": "Ein Abenteuer im Himmel, bei dem Piraten nach legendären Schätzen suchen und Enel gegenüberstehen."
+      },
+      "4": {
+        "title": "Water 7 Saga",
+        "description": "Die Crew erreicht Water Seven, wo entscheidende Ereignisse für ihre Zukunft geschehen."
+      },
+      "5": {
+        "title": "Thriller Bark Saga",
+        "description": "Eine geheimnisvolle Insel, auf der die Crew gegen Zombies und Gecko Moria kämpft."
+      },
+      "6": {
+        "title": "Marineford-Krieg Saga",
+        "description": "Der größte Krieg in der Welt von One Piece, der das Schicksal von Ace und Luffy entscheidet."
+      },
+      "7": {
+        "title": "Fischmenscheninsel-Saga",
+        "description": "Nach zwei Jahren kehrt die Crew zurück, um ihre Reise in der Neuen Welt fortzusetzen."
+      },
+      "8": {
+        "title": "Dressrosa-Saga",
+        "description": "Eine lange und gefährliche Saga, in der sich die Crew Doflamingo stellt."
+      },
+      "9": {
+        "title": "Whole Cake Island Saga",
+        "description": "Die Crew versucht, Sanji vor Big Moms Familie zu retten – einer der Vier Kaiser."
+      },
+      "10": {
+        "title": "Wano Kuni Saga",
+        "description": "Die Samurai-Saga und Allianz gegen Kaido – das Gleichgewicht der Welt steht auf dem Spiel."
+      }
+    }
+  }

@@ -1,0 +1,17 @@
+{
+    "choosePlan": "Choose your plan",
+    "basic": "Basic",
+    "standard": "Standard",
+    "premium": "Premium",
+    "month": "Month",
+    "limitedAccess": "Limited Access",
+    "ads": "Ads",
+    "readOnly": "Read Only",
+    "fullAccess": "Full Access",
+    "noAds": "No Ads",
+    "favorites": "Favorites and History",
+    "allIncluded": "All Included",
+    "prioritySupport": "Priority Support",
+    "earlyAccess": "Early Access to New Features",
+    "select": "Select Plan"
+  }

@@ -1,0 +1,17 @@
+{
+    "title": "Build Your Crew",
+    "availableCharacters": "Available Characters",
+    "yourCrew": "Your Crew",
+    "add": "Add",
+    "remove": "Remove",
+    "limitReached": "You can only have 10 members in your crew",
+    "openPack": "Open a pack ",
+    "noMorePacks": "No more packs",
+    "noPackOpened": "No pack opened yet",
+    "rarities": {
+      "common": "Common",
+      "rare": "Rare",
+      "epic": "Epic",
+      "legendary": "Legendary"
+    }
+  }

@@ -1,0 +1,10 @@
+{
+    "title": "Anmelden",
+    "username": "Benutzername",
+    "password": "Passwort",
+    "loading": "Wird geladen...",
+    "button": "Anmelden",
+    "invalidCredentials": "Benutzername oder Passwort falsch",
+    "passwordMismatch": "Passwörter stimmen nicht überein",
+    "logout": "Ausloggen"
+  }

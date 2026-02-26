@@ -1,0 +1,32 @@
+{
+  "heroImageAlt": "Bild von One Piece",
+  "heroTitle": "Willkommen auf der Grand Line",
+  "heroSubtitle": "Entdecke die Welt von One Piece",
+  "startAdventure": "Abenteuer starten",
+
+  "aboutTitle": "Was ist diese Seite?",
+  "aboutParagraph1": "Hier kannst du die Geschichte der Strohhutbande vom East Blue bis zur Neuen Welt verfolgen und jede Saga mit ihren wichtigsten Ereignissen erkunden.",
+  "aboutParagraph2": "Nutze die interaktive Karte, um legendäre Orte wie Enies Lobby, Wano, Marineford und viele mehr zu entdecken.",
+  "aboutParagraph3": "Sieh dir die Entwicklung der Charaktere, ihre Fähigkeiten, Kopfgelder und Allianzen im Laufe der Zeit an.",
+  "aboutParagraph4": "Diese Seite ist perfekt für neue und erfahrene Fans, die die One Piece-Welt noch besser verstehen oder ihr Wissen vertiefen wollen.",
+
+  "featuresTitle": "Funktionen",
+  "features": {
+    "characterInfo": "Charakterinformationen",
+    "sagaTimeline": "Saga-Zeitleiste",
+    "map": "Interaktive Karte mit besonderen Inhalten",
+    "fruits": "Detaillierte Teufelsfrüchte",
+    "multilingual": "Mehrsprachige Unterstützung"
+  },
+
+  "startTitle": "Bereit zum Start?",
+  "startDescription": "Erstelle ein Konto oder melde dich an, um exklusive Funktionen wie Favoriten, Saga-Fortschritt und Sprachpersonalisierung freizuschalten.",
+  "login": "Anmelden",
+  "register": "Registrieren",
+  "benefits": {
+    "explore": "Erkunde One Piece wie nie zuvor.",
+    "understand": "Verstehe die Welt, Allianzen und Konflikte besser.",
+    "remember": "Erinnere dich an epische Momente jeder Saga.",
+    "connect": "Verbinde dich mit dem Universum in jeder Sprache."
+  }
+}

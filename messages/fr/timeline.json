@@ -1,0 +1,46 @@
+ {
+    "timelineTitle": "Chronologie des sagas",
+    "explore": "Explorer",
+    "sagas": {
+      "1": {
+        "title": "Saga East Blue",
+        "description": "La saga où tout commence — nous rencontrons Luffy et son rêve de devenir Roi des Pirates."
+      },
+      "2": {
+        "title": "Saga Alabasta",
+        "description": "L'équipage arrive dans le désert d'Alabasta pour affronter Crocodile et sauver le royaume."
+      },
+      "3": {
+        "title": "Saga Île dans le ciel",
+        "description": "Une aventure dans le ciel où les pirates cherchent des trésors légendaires et affrontent Enel."
+      },
+      "4": {
+        "title": "Saga Water Seven",
+        "description": "L'équipage arrive à Water Seven, où des événements cruciaux pour leur avenir se produisent."
+      },
+      "5": {
+        "title": "Saga Thriller Bark",
+        "description": "Une île mystérieuse où l'équipage combat des zombies et Gecko Moria."
+      },
+      "6": {
+        "title": "Saga Guerre de Marineford",
+        "description": "La plus grande guerre dans le monde de One Piece, qui décide du destin d'Ace et Luffy."
+      },
+      "7": {
+        "title": "Saga Île des Hommes-Poissons",
+        "description": "Après deux ans, l'équipage revient pour poursuivre son voyage dans le Nouveau Monde."
+      },
+      "8": {
+        "title": "Saga Dressrosa",
+        "description": "Une longue et dangereuse saga où l'équipage affronte Doflamingo."
+      },
+      "9": {
+        "title": "Saga Whole Cake Island",
+        "description": "L'équipage tente de sauver Sanji de la famille de Big Mom — l'un des Quatre Empereurs."
+      },
+      "10": {
+        "title": "Saga Wano Kuni",
+        "description": "La saga des samouraïs et l'alliance contre Kaido — l'équilibre du monde est en jeu."
+      }
+    }
+  }

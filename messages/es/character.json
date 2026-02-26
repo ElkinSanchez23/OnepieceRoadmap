@@ -1,0 +1,34 @@
+{
+    "crew": "Tripulación",
+    "bounty": "Recompensa",
+    "devilFruit": "Fruta del Diablo",
+    "occupation": "Ocupación",
+    "haki": "Haki",
+    "job": "Trabajo",
+    "size": "Tamaño",
+    "age": "Edad",
+    "status": "Estado",
+    "crewDetails": "Detalles de la Tripulación",
+    "crewName": "Nombre de la Tripulación",
+    "crewRomanName": "Nombre Romanizado",
+    "crewTotalBounty": "Recompensa Total de la Tripulación",
+    "loading": "Cargando...",
+    "notFound": "Personaje no encontrado",
+    "mainContentLabel": "Contenido principal de la página",
+    "characterImageLabel": "Imagen de {name}",
+    "characterImageAlt": "Retrato de {name}",
+    "aria": {
+      "viewDetails": "Ver detalles de {name}",
+      "goBack": "Volver",
+      "imageOf": "Imagen de {name}"
+    },
+    "alt": {
+      "characterPortrait": "Retrato de {name}"
+    },
+    "devilFruitDescriptions": {
+      "Gomu Gomu no Mi": "La Gomu Gomu no Mi, también conocida como la Fruta Goma-Goma, es una Fruta del Diablo de tipo Paramecia que otorga al cuerpo del usuario las propiedades del caucho, convirtiéndolo en un Hombre Elástico (ゴム人間, Gomu Ningen). Fue un tesoro que Shanks y su tripulación robaron a un convoy del Gobierno Mundial, protegido por el CP9, pero que fue comido accidentalmente por Monkey D. Luffy.",
+      "Hito Hito no Mi": "Quien la come se convierte en mitad humano. Como el usuario original era un reno, adquirió inteligencia que le permitió aprender grandes conocimientos. Antes del timeskip, Chopper necesitaba una Rumble-Ball para tener más transformaciones durante 3 minutos. Después del timeskip, las domina por completo y al tomar una Rumble-Ball se convierte en un monstruo gigante, pero con control total.",
+      "Hana Hana no Mi": "Permite al usuario hacer crecer partes del cuerpo (o clones) en cualquier lugar, incluso sobre otra persona. Puede combinar varias copias del mismo miembro para formar, por ejemplo, manos gigantes, o crear clones de sí mismo para confundir a los enemigos.",
+      "Yomi Yomi no Mi": "Permite al usuario volver a la vida una vez muerto (solo una vez). El usuario puede sacar su alma del cuerpo, atravesar muros y volver a él cuando quiera. Si le cortan la cabeza, puede volver a unirla por pura fuerza de voluntad (el alma sigue ligada al cuerpo). Combinado con una espada, puede congelar a sus enemigos con el frío de las profundidades que su alma transmite."
+    }
+  }

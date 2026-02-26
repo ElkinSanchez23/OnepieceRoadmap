@@ -1,0 +1,32 @@
+{
+  "heroImageAlt": "Image of One Piece",
+  "heroTitle": "Welcome to Grand Line",
+  "heroSubtitle": "Explore the world of One Piece",
+  "startAdventure": "Start adventure",
+
+  "aboutTitle": "What is this site?",
+  "aboutParagraph1": "Here you can follow the story of the Straw Hats from East Blue to the New World, exploring each saga and its main events.",
+  "aboutParagraph2": "Use the interactive map to explore iconic places like Enies Lobby, Wano, Marineford, and many more.",
+  "aboutParagraph3": "Visualize the evolution of characters, their abilities, bounties, and alliances over time.",
+  "aboutParagraph4": "This site is perfect for both new and veteran fans who want to review or dive deeper into the One Piece lore.",
+
+  "featuresTitle": "Features",
+  "features": {
+    "characterInfo": "Character information",
+    "sagaTimeline": "Saga timeline",
+    "map": "Interactive map with featured content",
+    "fruits": "Detailed Devil Fruits",
+    "multilingual": "Support for multiple languages"
+  },
+
+  "startTitle": "Ready to begin?",
+  "startDescription": "Create an account or sign in to access exclusive features like favorites, saga progress, and language personalization.",
+  "login": "Sign in",
+  "register": "Register",
+  "benefits": {
+    "explore": "Explore One Piece like never before.",
+    "understand": "Better understand the world, alliances, and conflicts.",
+    "remember": "Relive epic moments from each saga.",
+    "connect": "Connect with the universe in any language."
+  }
+}

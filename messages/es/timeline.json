@@ -1,0 +1,47 @@
+{
+    "timelineTitle": "Línea de tiempo de sagas",
+    "explore": "Explorar",
+    "title": "Línea de tiempo de las sagas de One Piece",
+    "sagas": {
+      "1": {
+        "title": "Saga East Blue",
+        "description": "La saga donde todo comienza — conocemos a Luffy y su sueño de convertirse en Rey de los Piratas."
+      },
+      "2": {
+        "title": "Saga Alabasta",
+        "description": "La tripulación llega al desierto de Alabasta para enfrentar a Crocodile y salvar el reino."
+      },
+      "3": {
+        "title": "Saga Isla del Cielo",
+        "description": "Una aventura en el cielo donde los piratas buscan tesoros legendarios y enfrentan a Enel."
+      },
+      "4": {
+        "title": "Saga Water 7",
+        "description": "La tripulación llega a Water Seven, donde ocurren eventos decisivos para su futuro."
+      },
+      "5": {
+        "title": "Saga Thriller Bark",
+        "description": "Una isla misteriosa donde la tripulación combate zombies y a Gecko Moria."
+      },
+      "6": {
+        "title": "Saga Guerra de Marineford",
+        "description": "La mayor guerra en el mundo de One Piece que decide el destino de Ace y Luffy."
+      },
+      "7": {
+        "title": "Saga Isla Gyojin",
+        "description": "Después de dos años, la tripulación regresa para continuar su viaje en el Nuevo Mundo."
+      },
+      "8": {
+        "title": "Saga Dressrosa",
+        "description": "Una saga larga y peligrosa donde la tripulación enfrenta a Doflamingo."
+      },
+      "9": {
+        "title": "Saga Whole Cake Island",
+        "description": "La tripulación intenta salvar a Sanji de la familia de Big Mom — uno de los Yonkou."
+      },
+      "10": {
+        "title": "Saga Wano Kuni",
+        "description": "La saga samurái y la alianza contra Kaido — el equilibrio del mundo está en juego."
+      }
+    }
+}

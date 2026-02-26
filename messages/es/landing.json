@@ -1,0 +1,33 @@
+{
+  "heroImageAlt": "Imagen de One Piece",
+  "heroTitle": "Bienvenido a Grand Line",
+  "heroSubtitle": "Explora el mundo de One Piece",
+  "startAdventure": "Empezar aventura",
+
+  "aboutTitle": "¿Qué es este sitio?",
+  "aboutParagraph1": "Aquí puedes seguir la historia de los Mugiwaras desde el East Blue hasta el Nuevo Mundo, explorando cada saga y sus eventos principales.",
+  "aboutParagraph2": "Usa el mapa interactivo para explorar lugares emblemáticos como Enies Lobby, Wano, Marineford y muchos más.",
+  "aboutParagraph3": "Visualiza la evolución de los personajes, sus habilidades, recompensas y alianzas a lo largo del tiempo.",
+  "aboutParagraph4": "Este sitio es ideal para fans nuevos y veteranos que quieran repasar o profundizar en el lore de One Piece.",
+
+  "featuresTitle": "Características",
+  "features": {
+    "characterInfo": "Información de personajes",
+    "sagaTimeline": "Línea de tiempo de sagas",
+    "map": "Mapa interactivo con contenido destacado",
+    "fruits": "Frutas del Diablo detalladas",
+    "multilingual": "Soporte para múltiples idiomas"
+  },
+
+  "startTitle": "¿Listo para comenzar?",
+  "startDescription": "Crea una cuenta o inicia sesión para acceder a funcionalidades exclusivas como favoritos, progreso por saga y personalización de idioma.",
+  "login": "Iniciar sesión",
+  "register": "Registrarse",
+  "benefits": {
+  "explore": "Explora One Piece como nunca antes.",
+  "understand": "Comprende mejor el mundo, las alianzas y los conflictos.",
+  "remember": "Recuerda momentos épicos de cada saga.",
+  "connect": "Conéctate con el universo desde cualquier idioma."
+}
+
+}

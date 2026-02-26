@@ -1,0 +1,185 @@
+{
+    "maryGeoise": {
+      "name": "Mary Geoise",
+      "description": "La capitale du Gouvernement Mondial et résidence des Dragons Célestes. Lieu du Rêverie et du mystérieux souverain Im.",
+      "cards": [
+        {
+          "id": "imu_throne",
+          "title": "Imu assis sur le Trône Vide",
+          "description": "Imu, la figure mystérieuse dirigeant le Gouvernement Mondial dans l’ombre, est vu assis sur le Trône Vide, violant la règle selon laquelle personne ne doit l'occuper."
+        },
+        {
+          "id": "kuma_slave",
+          "title": "Kuma esclave des Tenryuubito",
+          "description": "Bartholomew Kuma est réduit à un esclave sans volonté et utilisé comme moyen de transport personnel par les Dragons Célestes."
+        },
+        {
+          "id": "gorosei_location",
+          "title": "Lieu de réunion des Cinq Doyens (Gorosei)",
+          "description": "Les plus hauts dirigeants du Gouvernement Mondial se réunissent régulièrement à Mary Geoise pour prendre des décisions cruciales sur le monde."
+        },
+        {
+          "id": "tenryuubito_residence",
+          "title": "Résidence des Tenryuubito (Dragons Célestes)",
+          "description": "Les Dragons Célestes vivent dans des demeures luxueuses, isolées du monde, où ils exercent leur pouvoir absolu sans conséquences."
+        }
+      ]
+    },
+    "germa66": {
+      "name": "Germa 66",
+      "description": "Un royaume militaire mobile dirigé par la famille Vinsmoke. Connu pour sa technologie de clonage avancée.",
+      "cards": [
+        {
+          "id": "vinsmoke_experiments",
+          "title": "Expériences sur les enfants",
+          "description": "Judge, le patriarche du Germa, modifie génétiquement ses enfants pour en faire des supers soldats sans émotions."
+        },
+        {
+          "id": "raid_suit_tech",
+          "title": "Technologie avancée : Clonage et Raid Suits",
+          "description": "Germa 66 possède une technologie de combat très avancée, incluant des armures de puissance (Raid Suits) et le clonage massif de soldats."
+        },
+        {
+          "id": "sanji_pudding_wedding",
+          "title": "Mariage de Sanji et Pudding",
+          "description": "Un mariage arrangé entre Sanji et Charlotte Pudding est prévu pour unir les royaumes de Germa et Big Mom, bien que des trahisons soient dissimulées des deux côtés."
+        }
+      ]
+    },
+    "amazonLily": {
+      "name": "Amazon Lily",
+      "description": "Une île habitée uniquement par des femmes. Demeure de la tribu Kuja et gouvernée par Boa Hancock.",
+      "cards": [
+        {
+          "id": "luffy_vs_sisters",
+          "title": "Luffy affronte les sœurs de Hancock",
+          "description": "Luffy combat les sœurs de Boa Hancock dans une arène publique, révélant accidentellement son Haki du Roi."
+        },
+        {
+          "id": "hancock_love",
+          "title": "Hancock tombe amoureuse de Luffy",
+          "description": "Pour la première fois, Boa Hancock ressent de l’amour pour quelqu’un : Luffy, pour son courage, son innocence et son indifférence à sa beauté."
+        },
+        {
+          "id": "bb_vs_hancock",
+          "title": "Barbe Noire et Hancock face à face",
+          "description": "Dans l’arc du Nouveau Monde, Barbe Noire et Hancock s’affrontent sur Amazon Lily pendant que la Marine tente de capturer les Shichibukai."
+        }
+      ]
+    },
+    "weatheria": {
+      "name": "Weatheria",
+      "description": "Une île céleste flottante spécialisée en météorologie. Nami s’y est entraînée pendant l’ellipse temporelle.",
+      "cards": [
+        {
+          "id": "nami_arrives",
+          "title": "Nami arrive à Weatheria (après Sabaody)",
+          "description": "Après la séparation des Mugiwara, Nami est envoyée à Weatheria, une île flottante dédiée à l’étude du climat."
+        },
+        {
+          "id": "nami_steals_book",
+          "title": "Nami vole le livre et s’enfuit",
+          "description": "Pendant son séjour, Nami vole un livre précieux sur la manipulation du climat pour mieux protéger son équipage."
+        },
+        {
+          "id": "cloud_island",
+          "title": "Weatheria au-dessus des nuages",
+          "description": "L’île flotte grâce à une technologie météorologique avancée et est peuplée de scientifiques étudiant le climat mondial."
+        }
+      ]
+    },
+    "sabaody": {
+      "name": "Archipel Sabaody",
+      "description": "Lieu où les Mugiwara rencontrent les Supernovas. Luffy frappe un Dragon Céleste, ce qui mène à leur défaite et séparation par Kuma.",
+      "cards": [
+        {
+          "id": "supernovas_encounter",
+          "title": "Rencontre avec les Supernovas",
+          "description": "Luffy et son équipage rencontrent d'autres puissants rookies avec de hautes primes, connus comme les Supernovas."
+        },
+        {
+          "id": "kuma_appears",
+          "title": "Apparition de Kuma",
+          "description": "Kuma, le Shichibukai, apparaît et commence à faire disparaître les membres de l’équipage un à un à travers le monde."
+        },
+        {
+          "id": "kizaru_attack",
+          "title": "Attaque de Kizaru",
+          "description": "L’amiral Kizaru arrive sur l’archipel pour capturer les Supernovas et attaque sans pitié avec ses pouvoirs de lumière."
+        }
+      ]
+    },
+    "elbaf": {
+      "name": "Elbaf",
+      "description": "Terre des géants et foyer des guerriers les plus puissants. Étroitement liée au passé de Big Mom. Usopp rêve de la visiter.",
+      "cards": [
+        {
+          "id": "dorry_brogy_duel",
+          "title": "Duel entre Dorry et Brogy",
+          "description": "Deux guerriers géants d’Elbaf, Dorry et Brogy, se battent chaque jour depuis plus d’un siècle pour l’honneur et la fierté."
+        },
+        {
+          "id": "big_mom_disaster",
+          "title": "Le désastre de Big Mom à Elbaf",
+          "description": "Dans son enfance, Big Mom provoque une tragédie à Elbaf pendant une fête, changeant ainsi son destin."
+        },
+        {
+          "id": "usopp_dream",
+          "title": "Usopp veut devenir un héros à Elbaf",
+          "description": "Usopp rêve de devenir un courageux guerrier de la mer et de gagner la reconnaissance des géants d’Elbaf."
+        }
+      ]
+    },
+    "punkHazard": {
+      "name": "Punk Hazard",
+      "description": "Île dangereuse divisée entre feu et glace. Caesar Clown y menait des expériences. Début de l’alliance contre Kaido.",
+      "cards": [
+        {
+          "id": "luffy_law_alliance",
+          "title": "Luffy et Law forment une alliance",
+          "description": "Luffy et Trafalgar Law forment une alliance pirate dans le but de renverser un des Yonkou : Kaido."
+        },
+        {
+          "id": "vergo_vs_law",
+          "title": "Vergo contre Law",
+          "description": "Law affronte Vergo dans un combat intense dans le laboratoire, utilisant ses pouvoirs pour le trancher en deux."
+        },
+        {
+          "id": "caesar_defeated",
+          "title": "Caesar vaincu par Luffy",
+          "description": "Luffy bat Caesar Clown, le scientifique responsable d’expériences inhumaines avec des gaz et armes chimiques."
+        },
+        {
+          "id": "island_split",
+          "title": "Île divisée entre feu et glace",
+          "description": "Punk Hazard est divisée par des conditions extrêmes résultant d’un ancien combat entre Akainu et Aokiji."
+        }
+      ]
+    },
+    "beehive": {
+      "name": "Beehive",
+      "description": "Aussi connue comme l’Île des Pirates. Refuge pirate actuellement dirigé par Barbe Noire. Ancienne base de Rocks D. Xebec.",
+      "cards": [
+        {
+          "id": "rocks_origin",
+          "title": "Berceau des Pirates Rocks",
+          "description": "L’effrayant équipage de Rocks D. Xebec est né sur Beehive, une île tristement célèbre pour sa brutalité pirate."
+        },
+        {
+          "id": "blackbeard_base",
+          "title": "Base de Barbe Noire",
+          "description": "Après la chute des Rocks, l’île est prise par Barbe Noire, qui en fait sa forteresse personnelle."
+        },
+        {
+          "id": "garp_vs_kuzan",
+          "title": "Combat entre Garp et Kuzan (Aokiji)",
+          "description": "Un combat féroce a lieu à Beehive entre Garp, le héros de la Marine, et son ancien disciple Aokiji, désormais allié de Barbe Noire."
+        },
+        {
+          "id": "coby_prisoner",
+          "title": "Coby prisonnier de Barbe Noire",
+          "description": "Coby est capturé par l’équipage de Barbe Noire sur Beehive, déclenchant une opération de sauvetage par SWORD."
+        }
+      ]
+    }
+  }

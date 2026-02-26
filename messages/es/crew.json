@@ -1,0 +1,17 @@
+{
+    "title": "Arma tu Tripulación",
+    "availableCharacters": "Personajes Disponibles",
+    "yourCrew": "Tu Tripulación",
+    "add": "Agregar",
+    "remove": "Quitar",
+    "limitReached": "Solo puedes tener 10 miembros en tu tripulación",
+    "openPack": "Abrir un sobre",
+    "noMorePacks": "No hay más sobres",
+    "noPackOpened": "Aún no se ha abierto ningún sobre",
+    "rarities": {
+      "common": "Común",
+      "rare": "Raro",
+      "epic": "Épico",
+      "legendary": "Legendario"
+    }
+  }

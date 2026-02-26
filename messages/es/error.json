@@ -1,0 +1,17 @@
+{
+  "notFound": {
+    "title": "¡Página No Encontrada!",
+    "description": "Parece que te has perdido en el Grand Line. Esta página no existe en nuestro mapa del tesoro.",
+    "goHome": "Volver al Inicio",
+    "exploreSagas": "Explorar Sagas",
+    "help": "Verifica la URL o navega desde el menú principal"
+  },
+  "error": {
+    "title": "¡Algo Salió Mal!",
+    "description": "Hemos encontrado un error inesperado. Nuestros piratas están trabajando para solucionarlo.",
+    "details": "Ver Detalles del Error",
+    "tryAgain": "Intentar de Nuevo",
+    "goHome": "Ir al Inicio",
+    "contact": "Si el problema persiste, contacta al equipo de soporte"
+  }
+} 

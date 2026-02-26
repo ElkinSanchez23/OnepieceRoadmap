@@ -1,0 +1,32 @@
+{
+    "crew": "Besatzung",
+    "bounty": "Kopfgeld",
+    "devilFruit": "Teufelsfrucht",
+    "occupation": "Beruf",
+    "haki": "Haki",
+    "job": "Job",
+    "size": "Größe",
+    "age": "Alter",
+    "status": "Status",
+    "crewDetails": "Besatzungsdetails",
+    "crewName": "Besatzungsname",
+    "crewRomanName": "Romanischer Name",
+    "crewTotalBounty": "Gesamtes Kopfgeld der Besatzung",
+    "loading": "Laden...",
+    "notFound": "Charakter nicht gefunden",
+    "mainContentLabel": "Hauptinhalt der Seite",
+    "characterImageLabel": "Bild von {name}",
+    "characterImageAlt": "Porträt von {name}",
+    "aria": {
+      "viewDetails": "Details zu {name} anzeigen",
+      "goBack": "Zurück",
+      "imageOf": "Bild von {name}"
+    },
+    "imageUnavailable": "Bild von {name} nicht verfügbar",
+    "devilFruitDescriptions": {
+      "Gomu Gomu no Mi": "Die Gomu Gomu no Mi, auch bekannt als Gum-Gum-Frucht, ist eine Paramecia-Teufelsfrucht, die dem Körper des Nutzers Gummieigenschaften verleiht und ihn in einen Gummimenschen (ゴム人間, Gomu Ningen) verwandelt. Sie war einst ein Schatz, den Shanks von einem Konvoi der Weltregierung stahl, beschützt vom CP9, und wurde versehentlich von Monkey D. Ruffy gegessen.",
+      "Hito Hito no Mi": "Wer sie isst, wird halb Mensch. Da der Nutzer ursprünglich ein Rentier war, erlangte er Intelligenz und konnte großes Wissen ansammeln. Vor dem Zeitsprung benötigte Chopper einen Rumble-Ball für mehr Transformationen über 3 Minuten. Nach dem Zeitsprung beherrscht er alle Transformationen perfekt, und mit einem Rumble-Ball wird er zum kontrollierten Monster.",
+      "Hana Hana no Mi": "Erlaubt dem Nutzer, Körperteile (oder sogar Klone) überall wachsen zu lassen – auch auf anderen Personen. Mehrere Gliedmaßen können kombiniert werden, um etwa riesige Hände zu bilden, oder Klone zur Täuschung von Gegnern zu erschaffen.",
+      "Yomi Yomi no Mi": "Erlaubt dem Besitzer, einmal nach dem Tod ins Leben zurückzukehren (nur einmal nutzbar). Die Seele kann den Körper verlassen, durch Wände wandern und zurückkehren. Selbst wenn der Kopf abgetrennt wird, kann die Seele ihn durch Willenskraft zurückbringen (die Seele bleibt mit dem Körper verbunden). In Kombination mit einem Schwert kann sie eisige Kälte erzeugen, die Feinde erfrieren lässt."
+    }
+  }

@@ -1,0 +1,29 @@
+{
+    "crew": "Crew",
+    "bounty": "Bounty",
+    "devilFruit": "Devil Fruit",
+    "occupation": "Occupation",
+    "haki": "Haki",
+    "job": "Job",
+    "size": "Size",
+    "age": "Age",
+    "status": "Status",
+    "crewDetails": "Crew Details",
+    "crewName": "Crew Name",
+    "crewRomanName": "Roman Name",
+    "crewTotalBounty": "Total Crew Bounty",
+    "loading": "Loading...",
+    "notFound": "Character not Found",
+    "mainContentLabel": "Main content of the page",
+    "characterImageLabel": "Image of {name}",
+    "characterImageAlt":"Portrait of {name}",
+    "aria": {
+      "viewDetails": "View details of {name}",
+      "goBack": "Go back",
+      "imageOf": "Image of {name}"
+    },
+    "alt": {
+      "characterPortrait": "Portrait of {name}"
+    },
+    "imageUnavailable": "Image of {name} not available"
+  }

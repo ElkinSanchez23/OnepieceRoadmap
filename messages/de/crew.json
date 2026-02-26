@@ -1,0 +1,17 @@
+{
+    "title": "Stelle deine Crew zusammen",
+    "availableCharacters": "Verfügbare Charaktere",
+    "yourCrew": "Deine Crew",
+    "add": "Hinzufügen",
+    "remove": "Entfernen",
+    "limitReached": "Du kannst nur 10 Mitglieder in deiner Crew haben",
+    "openPack": "Paket öffnen ",
+    "noMorePacks": "Keine weiteren Pakete",
+    "noPackOpened": "Noch kein Paket geöffnet",
+    "rarities": {
+      "common": "Gewöhnlich",
+      "rare": "Selten",
+      "epic": "Episch",
+      "legendary": "Legendär"
+    }
+  }
