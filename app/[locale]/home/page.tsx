@@ -7,7 +7,6 @@ import { ScrollFeature } from "@/components/generalComponents/scrollFeature";
 import OnePiece from "@/assets/generalImages/onePieceRoadMap.png";
 import Mugis from "@/assets/generalImages/mugis.png";
 import GeneralOnepiece from "@/assets/generalImages/one_Piece.png";
-import LogoutButton from "@/components/authComponents/logoutButton";
 
 const Home = () => {
   const t = useTranslations("home");
@@ -25,9 +24,6 @@ const Home = () => {
           })}
         </h1>
 
-        <div className="fixed top-4 left-4 z-[1000]">
-          <LogoutButton aria-label={t("logout")} />
-        </div>
 
         <ScrollFeature
           title={t("welcomeTitle")}

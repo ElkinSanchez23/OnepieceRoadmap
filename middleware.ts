@@ -1,6 +1,5 @@
 import { NextRequest, NextResponse } from "next/server";
 import createIntlMiddleware from "next-intl/middleware";
-import { createMiddlewareClient } from "@supabase/auth-helpers-nextjs";
 import { routing } from "@/i18n/routing";
 
 const locales = routing.locales;
@@ -51,29 +50,8 @@ export async function middleware(req: NextRequest) {
   }
 
   const res = intlMiddleware(req);
-  const supabase = createMiddlewareClient({ req, res });
 
-  const {
-    data: { session },
-  } = await supabase.auth.getSession();
-
-  const publicRoutes = [`/`, `/login`, `/register`];
-  const isPublic = publicRoutes.some(
-    (route) =>
-      pathname === `/${defaultLocale}${route}` ||
-      locales.some((loc) => pathname === `/${loc}${route}`)
-  );
-
-  if (isPublic) return res;
-
-  const isExpired =
-    !session?.expires_at || Date.now() >= session.expires_at * 1000;
-
-  if (!session || isExpired) {
-    const loginUrl = new URL(`/${defaultLocale}/login`, req.url);
-    return NextResponse.redirect(loginUrl);
-  }
-
+  // Authentication has been removed; simply continue to the next response.
   return res;
 }
 export const config = {

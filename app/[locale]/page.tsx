@@ -61,7 +61,7 @@ export default async function LandingPage({ params }: Params) {
             {t("heroTitle")}
           </h1>
           <p className="text-lg md:text-xl mb-8">{t("heroSubtitle")}</p>
-          <ButtonRedirect route="/login" text={t("startAdventure")} />
+          <ButtonRedirect route="/home" text={t("startAdventure")} />
         </div>
       </section>
 
@@ -88,16 +88,7 @@ export default async function LandingPage({ params }: Params) {
         </div>
       </section>
 
-      <section className="py-16 px-6 text-center">
-        <h2 className="text-3xl md:text-4xl font-bold mb-6">
-          {t("startTitle")}
-        </h2>
-        <p className="text-lg text-gray-300 mb-8">{t("startDescription")}</p>
-        <div className="flex justify-center gap-6">
-          <ButtonRedirect route="/login" text={t("login")} />
-          <ButtonRedirect route="/register" text={t("register")} />
-        </div>
-      </section>
+
     </main>
   );
 }

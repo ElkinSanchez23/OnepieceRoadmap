@@ -14,11 +14,9 @@ export default getRequestConfig(async ({ requestLocale }) => {
     crew: (await import(`@/messages/${locale}/crew.json`)).default,
     home: (await import(`@/messages/${locale}/home.json`)).default,
     importantPlaces: (await import(`@/messages/${locale}/importantPlaces.json`)).default,
-    login: (await import(`@/messages/${locale}/login.json`)).default,
     map: (await import(`@/messages/${locale}/map.json`)).default,
     menu: (await import(`@/messages/${locale}/menu.json`)).default,
     plans: (await import(`@/messages/${locale}/plans.json`)).default,
-    register: (await import(`@/messages/${locale}/register.json`)).default,
     sagaDetail: (await import(`@/messages/${locale}/sagaDetail.json`)).default,
     timeline: (await import(`@/messages/${locale}/timeline.json`)).default
   };
