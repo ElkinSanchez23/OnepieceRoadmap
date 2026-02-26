@@ -4,12 +4,12 @@ import { useEffect, useMemo, useState } from "react";
 import Image from "next/image";
 import { useSearchParams, useRouter } from "next/navigation";
 import MapImage from "@/assets/Map/map_one_piece.png";
-import MapTitle from "@/components/map/mapTitle";
-import { MapMarker } from "@/components/map/mapMarker";
+import MapTitle from "@/components/Map/MapTitle";
+import { MapMarker } from "@/components/Map/MapMarker";
 import { mapLocations } from "@/data/mapLocations";
-import IslandModal from "@/components/map/islandModal";
+import IslandModal from "@/components/Map/IslandModal";
 import { useTranslations } from "next-intl";
-import { MapTypeIndicator } from "@/components/map/mapTypeIndicator";
+import { MapTypeIndicator } from "@/components/Map/MapTypeIndicator";
 
 const useIslandSlug = () => {
   const searchParams = useSearchParams();

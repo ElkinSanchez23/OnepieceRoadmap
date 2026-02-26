@@ -1,13 +1,13 @@
 import Image from "next/image";
-import heroImage from "@/assets/generalImages/one_Piece.png";
-import ButtonRedirect from "@/components/generalComponents/button";
+import heroImage from "@/assets/GeneralImages/One_Piece.png";
+import ButtonRedirect from "@/components/GeneralComponents/Button";
 import { createTranslator } from "next-intl";
 import landingMessagesES from "@/messages/es/landing.json";
 import landingMessagesEN from "@/messages/en/landing.json";
 import landingMessagesFR from "@/messages/fr/landing.json";
 import landingMessagesDE from "@/messages/de/landing.json";
 import landingMessagesJP from "@/messages/jp/landing.json";
-import LanguageSwitcher from "@/i18n/languageSwitcher";
+import LanguageSwitcher from "@/i18n/LanguageSwitcher";
 
 type Params = {
   params: Promise<{

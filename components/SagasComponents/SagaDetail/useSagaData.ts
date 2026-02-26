@@ -6,10 +6,10 @@ import {
   getEpisodesBySagaId,
 } from "../../../services/sagasService";
 import { Arc, Character, Episode, Location, Saga } from "./types";
-import { filterArcs } from "./sagaArcs";
-import { filterCharacters } from "./sagaCharacters";
-import { fetchEpisodes } from "./sagaEpisodes";
-import { fetchLocations } from "./sagaLocations";
+import { filterArcs } from "./SagaArcs";
+import { filterCharacters } from "./SagaCharacters";
+import { fetchEpisodes } from "./SagaEpisodes";
+import { fetchLocations } from "./SagaLocations";
 
 const supportedLangs = ["en", "fr"];
 

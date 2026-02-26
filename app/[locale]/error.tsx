@@ -1,7 +1,6 @@
 "use client";
 
 import React from "react";
-import { useTranslations } from "next-intl";
 import { useLocale } from "next-intl";
 import Link from "next/link";
 import Image from "next/image";
@@ -11,8 +10,7 @@ interface ErrorProps {
   reset: () => void;
 }
 
-export default function Error({ error, reset }: ErrorProps) {
-  const t = useTranslations("error");
+export default function Error({ reset }: ErrorProps) {
   const locale = useLocale();
 
   return (
@@ -20,7 +18,7 @@ export default function Error({ error, reset }: ErrorProps) {
       
       <div className="relative w-[300px] md:w-[400px] lg:w-[500px] h-[200px] mb-8">
         <Image
-          src="/assets/generalImages/one_Piece.png"
+          src="/assets/GeneralImages/One_Piece.png"
           alt="One Piece"
           fill
           sizes="60"

@@ -3,7 +3,7 @@
 import { useState, useRef, useEffect } from "react";
 import { usePathname, useParams } from "next/navigation";
 import { useTranslations } from "next-intl";
-import ButtonRedirect from "./button";
+import ButtonRedirect from "./Button";
 
 function useClickOutside<T extends HTMLElement>(
   ref: React.RefObject<T | null>,

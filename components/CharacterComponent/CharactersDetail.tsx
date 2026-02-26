@@ -4,15 +4,15 @@ import { useEffect, useState } from "react";
 import { useLocale, useTranslations } from "next-intl";
 import { getCharacterById, Character } from "@/services/getCharacters";
 import { mugiwaraImages } from "@/assets/mugiwaraImages2";
-import { LoadingScreen } from "../generalComponents/loadingScreen";
+import { LoadingScreen } from "@/components/GeneralComponents/LoadingScreen";
 import WantedBG from "@/assets/wanted-bg.jpg";
-import Background from "../generalComponents/background";
-import MugiFlag from "@/assets/generalImages/mugiFlag.jpeg";
-import CrewInfo from "./crewInfo";
-import SunnyGO from "@/assets/sunny.gif"
-import MapRoad from "@/assets/generalImages/onePieceRoadMap.png"
-import CharacterImage from "./characterImage";
-import FruitInfo from "./fruitInfo";
+import Background from "@/components/GeneralComponents/Background";
+import MugiFlag from "@/assets/GeneralImages/MugiFlag.jpeg";
+import CrewInfo from "./CrewInfo";
+import SunnyGO from "@/assets/Sunny.gif";
+import MapRoad from "@/assets/GeneralImages/OnePieceRoadMap.png";
+import CharacterImage from "./CharacterImage";
+import FruitInfo from "./FruitInfo";
 type Props = {
   characterId: number;
 };
@@ -25,11 +25,9 @@ export default function CharacterDetail({ characterId }: Props) {
     getCharacterById(characterId, locale).then(setCharacter);
   }, [characterId, locale]);
 
-  if (!character) return
-  <LoadingScreen
-        imageSrc={MapRoad}
-        gifSrc={SunnyGO}
-      />;
+  if (!character) return (
+    <LoadingScreen imageSrc={MapRoad} gifSrc={SunnyGO} />
+  );
 
   const normalizedKey = character.name.toLowerCase().replace(/[\s\-\.']/g, "");
   const localImage = mugiwaraImages[normalizedKey];

@@ -1,12 +1,12 @@
 "use client";
 
 import { useTranslations } from "next-intl";
-import Background from "@/components/generalComponents/background";
-import ButtonRedirect from "@/components/generalComponents/button";
-import { ScrollFeature } from "@/components/generalComponents/scrollFeature";
-import OnePiece from "@/assets/generalImages/onePieceRoadMap.png";
-import Mugis from "@/assets/generalImages/mugis.png";
-import GeneralOnepiece from "@/assets/generalImages/one_Piece.png";
+import Background from "@/components/GeneralComponents/Background";
+import ButtonRedirect from "@/components/GeneralComponents/Button";
+import { ScrollFeature } from "@/components/GeneralComponents/ScrollFeature";
+import OnePiece from "@/assets/GeneralImages/OnePieceRoadMap.png";
+import Mugis from "@/assets/GeneralImages/Mugis.png";
+import GeneralOnepiece from "@/assets/GeneralImages/One_Piece.png";
 
 const Home = () => {
   const t = useTranslations("home");

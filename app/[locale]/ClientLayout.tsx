@@ -2,8 +2,8 @@
 
 import React from 'react';
 import { useLocale } from 'next-intl';
-import { BurguerDespegable } from '@/components/generalComponents/burguerDespegable';
-import LanguageSwitcher from '@/i18n/languageSwitcher';
+import { BurguerDespegable } from '@/components/GeneralComponents/BurguerDespegable';
+import LanguageSwitcher from '@/i18n/LanguageSwitcher';
 
 
 export default function ClientLayout({

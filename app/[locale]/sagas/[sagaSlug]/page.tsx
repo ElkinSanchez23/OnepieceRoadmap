@@ -1,7 +1,7 @@
 'use client';
 
 import { notFound, useParams } from 'next/navigation';
-import { SagaDetail } from '@/components/sagasComponents/sagaDetail/sagaDetail';
+import { SagaDetail } from '@/components/SagasComponents/SagaDetail/SagaDetail';
 import {
   EastBlueBG,
   AlabastaBG,

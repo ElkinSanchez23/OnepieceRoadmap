@@ -1,15 +1,15 @@
 'use client';
 import { useEffect, useMemo } from "react";
-import Background from "../../generalComponents/background";
+import Background from "../../GeneralComponents/Background";
 import { useSagaDetail } from "./useSagaData";
 import type { Props } from "./types";
-import { SagaCardCarousel } from "./sagaCardCarousel";
-import { LoadingScreen } from "../../generalComponents/loadingScreen";
-import SunnyGO from "@/assets/sunny.gif"
-import MapRoad from "@/assets/generalImages/onePieceRoadMap.png"
+import { SagaCardCarousel } from "./SagaCardCarousel";
+import { LoadingScreen } from "../../GeneralComponents/LoadingScreen";
+import SunnyGO from "@/assets/Sunny.gif";
+import MapRoad from "@/assets/GeneralImages/OnePieceRoadMap.png";
 import dynamic from "next/dynamic";
 import { useTranslations, useLocale } from "next-intl";
-const SectionsPromise = import('./sections');
+const SectionsPromise = import('./Sections');
 
 const ArcsSection = dynamic(() =>
   SectionsPromise.then((mod) => mod.ArcsSection)

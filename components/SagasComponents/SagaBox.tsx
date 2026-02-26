@@ -1,5 +1,5 @@
 import React from "react";
-import ButtonRedirect from "@/components/generalComponents/button";
+import ButtonRedirect from "@/components/GeneralComponents/Button";
 import Image from "next/image";
 
 type SagaBoxProps = {
